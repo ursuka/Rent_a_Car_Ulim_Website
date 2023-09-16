@@ -1,0 +1,8 @@
+#listItem {
+    display: inline-block;
+}
+
+table, th, td {
+    border-color: black;
+    border: 1px solid;
+}
